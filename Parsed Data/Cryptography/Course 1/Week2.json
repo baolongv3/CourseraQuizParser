@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Attacks that exploit weaknesses in the implementation of a cryptographic system are generally known as",
+        "choice": [
+            "side channel attacks.",
+            "Related key attacks.",
+            "social engineering attacks.",
+            "timing attacks."
+        ]
+    },
+    {
+        "question": "The term often used to describe using force or threats to coerce information from the user of a cryptosystem is",
+        "choice": [
+            "traffic analysis.",
+            "social engineering.",
+            "rubber-hose cryptanalysis.",
+            "extortion."
+        ]
+    },
+    {
+        "question": "Frequency analysis exploits what characteristic of monoalphabetic ciphers?",
+        "choice": [
+            "The number of distinct symbols in the cipher text.",
+            "The frequency distribution of word lengths.",
+            "The frequency of vowels at the beginning of words.",
+            "The underlying frequency of the plaintext languages."
+        ]
+    },
+    {
+        "question": "Which of the following does not typically complicate the use of frequency analysis.",
+        "choice": [
+            "Spelling out numbers and other non-text items.",
+            "Using short abbreviations for longer words or concepts.",
+            "Limiting messages to fairly short lengths.",
+            "Using infrequently used letters as common punctuation marks."
+        ]
+    },
+    {
+        "question": "In the English alphabet, how many digraphs are there?",
+        "choice": [
+            "17,576",
+            "676",
+            "26",
+            "456,976"
+        ]
+    },
+    {
+        "question": "A principle motivation in developing polyalphabetic ciphers was",
+        "choice": [
+            "to flatten the frequency distribution of the ciphertext characters.",
+            "to reduce the size of the key to something that could be easily remembered.",
+            "to overcome the fact that nearly all monoalphabetic ciphers had already been used.",
+            "to increase the size of the key space."
+        ]
+    },
+    {
+        "question": "What is the index of coincidence for a language that uses it's alphabet randomly.",
+        "choice": [
+            "0.0",
+            "1.0",
+            "1.73",
+            "1/N, where N is the number of characters in the alphabet."
+        ]
+    },
+    {
+        "question": "A Vigenere cipher using a particular non-English alphabet has a keylength of 20. We would like the most common plaintext letter (which has a frequency of about 10%) to appear about 5 times in each key-letter group ing. About how much ciphertext do we need access to?",
+        "choice": [
+            "50",
+            "20",
+            "Indeterminate without knowing the length of the alphabet.",
+            "1000 characters."
+        ]
+    },
+    {
+        "question": "The coincidence rate of a Vigenere cipher peaks strongly at offset distances of 35 and 42. Key lengths to focus on quickly include",
+        "choice": [
+            "5, 6, or 7",
+            "7",
+            "35 or 42",
+            "Indeterminate, since 42 is not a multiple of 35."
+        ]
+    },
+    {
+        "question": "The fact that some letters are almost always (or almost never) followed by certain other letters can help with all of the following except",
+        "choice": [
+            "helping to identify potential breaks between words.",
+            "Help to identify ciphertext characters that probably represent vowels.",
+            "helping to \"break ties\" when single-character frequency analysis fails to distinguish mappings.",
+            "Calculating the correct single-character frequencies in the ciphertext."
+        ]
+    }
+]

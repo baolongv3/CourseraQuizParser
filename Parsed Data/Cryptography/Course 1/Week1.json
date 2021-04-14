@@ -1,0 +1,122 @@
+[
+    {
+        "question": "The Navajo Code Talkers were a relatively modern example of a cryptosystem in which",
+        "choice": [
+            "The Caesar shift cipher.",
+            "the spoken language was the key.",
+            "a simple mathematical design produced a nearly unbreakable code.",
+            "the Caesar shift cipher was used with different shift for each character."
+        ],
+        "answers": [
+            "the spoken language was the key."
+        ]
+    },
+    {
+        "question": "The distinction between a 'code' and a 'cipher' is",
+        "choice": [
+            "that a code is a binary file while a cipher is text message.",
+            "that a code encrypts concepts while a cipher encrypts symbols.",
+            "that a cipher encrypts concepts while a code encrypts symbols.",
+            "meaningless -- they are two terms for the same thing."
+        ],
+        "answers": [
+            "that a code encrypts concepts while a cipher encrypts symbols."
+        ]
+    },
+    {
+        "question": "The term used for the art and science of breaking codes and ciphers is",
+        "choice": [
+            "social engineering.",
+            "cryptanalysis.",
+            "cryptography.",
+            "cryptology."
+        ],
+        "answers": [
+            "cryptanalysis."
+        ]
+    },
+    {
+        "question": "In World War II, the primary military cipher used by the Germans in the field was",
+        "choice": [
+            "The Vigenere Cipher",
+            "The Vernam Cipher",
+            "JN-25",
+            "the Enigma machine"
+        ],
+        "answers": [
+            "the Enigma machine"
+        ]
+    },
+    {
+        "question": "The usual benchmark against which computational attacks are compared is",
+        "choice": [
+            "the brute-force attack that systematically searches the key space.",
+            "the social engineering attack.",
+            "A chosen-plaintext attack.",
+            "the best known attack against a similar cryptosystem."
+        ],
+        "answers": [
+            "the brute-force attack that systematically searches the key space."
+        ]
+    },
+    {
+        "question": "Which of the following, when used properly, is provably unbreakable?",
+        "choice": [
+            "The Vernam cipher",
+            "The Venona cipher",
+            "Enigma",
+            "The Vigenere cipher"
+        ],
+        "answers": [
+            "The Vernam cipher"
+        ]
+    },
+    {
+        "question": "Kerckhoff's Principle strongly recommends that",
+        "choice": [
+            "every detail about a cryptosystem be kept secret as much as possible.",
+            "implementation details remain closely guarded secrets.",
+            "essential elements of the algorithm be kept private.",
+            "it be assumed that the adversary has all information about the cryptosystem algorithms and its implementations."
+        ],
+        "answers": [
+            "it be assumed that the adversary has all information about the cryptosystem algorithms and its implementations."
+        ]
+    },
+    {
+        "question": "The only piece of information that must be kept secret in most asymmetric cryptosystems is",
+        "choice": [
+            "which asymmetric algorithm is being used in this exchange.",
+            "the underlying algorithm",
+            "the public key.",
+            "the private key."
+        ],
+        "answers": [
+            "the private key."
+        ]
+    },
+    {
+        "question": "In most cryptosystems the distribution and verification of keys is generally accomplished by",
+        "choice": [
+            "both parties performing some kind of 'key exchange' protocol.",
+            "using a trusted third party",
+            "using a bonded courier.",
+            "publishing the public keys on the sender's webpage."
+        ],
+        "answers": [
+            "using a trusted third party"
+        ]
+    },
+    {
+        "question": "The name generally given to the actor than can insert messages into a communications channel is",
+        "choice": [
+            "Bob",
+            "Eve",
+            "Malory",
+            "Alice"
+        ],
+        "answers": [
+            "Malory"
+        ]
+    }
+]
